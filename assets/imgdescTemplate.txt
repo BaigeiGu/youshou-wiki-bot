@@ -1,0 +1,12 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh|1=第${season}季第${episode}集封面}}
+|date=${date}
+|source=有兽焉动画第${season}季第${episode}集
+|author=上海宽娱数码科技有限公司，北京分子互动文化传播有限公司
+}}
+
+=={{int:license-header}}==
+{{Non-free poster}}
+
+[[Category:动画封面]]

@@ -1,0 +1,10 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh|1=该图是有兽焉漫画第${episode}话的标题卡。}}
+|date=${date}
+|source=《有兽焉》漫画第${episode}话
+|author=有兽焉漫画-靴下猫腰子
+}}
+
+=={{int:license-header}}==
+{{Non-free art}}
